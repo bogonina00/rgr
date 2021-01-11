@@ -1,0 +1,22 @@
+D:\Учёба\3 курс 1 семестр ( 5 семестр)\Алгоритмы и структуры данных\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Учёба\3 курс 1 семестр ( 5 семестр)\Алгоритмы и структуры данных\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Учёба\3 курс 1 семестр ( 5 семестр)\Алгоритмы и структуры данных\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Учёба\3 курс 1 семестр ( 5 семестр)\Алгоритмы и структуры данных\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Учёба\3 курс 1 семестр ( 5 семестр)\Алгоритмы и структуры данных\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Учёба\3 курс 1 семестр ( 5 семестр)\Алгоритмы и структуры данных\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Учёба\3 курс 1 семестр ( 5 семестр)\Алгоритмы и структуры данных\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Учёба\3 курс 1 семестр ( 5 семестр)\Алгоритмы и структуры данных\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Учёба\3 курс 1 семестр ( 5 семестр)\Алгоритмы и структуры данных\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\Учёба\3 курс 1 семестр ( 5 семестр)\Алгоритмы и структуры данных\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\Учёба\3 курс 1 семестр ( 5 семестр)\Алгоритмы и структуры данных\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+H:\Downloads\Курсовая\Курсовая - поиск в ширину на графе\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\Downloads\Курсовая\Курсовая - поиск в ширину на графе\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\Downloads\Курсовая\Курсовая - поиск в ширину на графе\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\Downloads\Курсовая\Курсовая - поиск в ширину на графе\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\Downloads\Курсовая\Курсовая - поиск в ширину на графе\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\Downloads\Курсовая\Курсовая - поиск в ширину на графе\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+H:\Downloads\Курсовая\Курсовая - поиск в ширину на графе\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+H:\Downloads\Курсовая\Курсовая - поиск в ширину на графе\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+H:\Downloads\Курсовая\Курсовая - поиск в ширину на графе\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+H:\Downloads\Курсовая\Курсовая - поиск в ширину на графе\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\Downloads\Курсовая\Курсовая - поиск в ширину на графе\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
